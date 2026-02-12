@@ -1,5 +1,5 @@
 def main():
-    print("Main branch: baseline version")
+    print("Feature branch: message changed for PR")
 
 if __name__ == "__main__":
     main()
