@@ -1,5 +1,5 @@
 def main():
-    print("Feature branch: message changed for PR")
+    print("BAD CHANGE: This should not have been committed")
 
 if __name__ == "__main__":
     main()
