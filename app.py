@@ -1,5 +1,5 @@
 def main():
-    print("Remote change: updated directly on GitHub")
+    print("BAD CHANGE: This should not have been committed")
 
 if __name__ == "__main__":
     main()
